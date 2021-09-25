@@ -222,16 +222,9 @@ footer a {
 	font-size: 20px;
 	transition: all 0.5s ease;
 }
-footer a.tw:hover {
-	color: #1da1f2;
-	transition: all 0.5s ease;
-}
-footer a.fb:hover {
-	color: #3b5998;
-	transition: all 0.5s ease;
-}
+
 footer a.ig:hover {
-	color: #bd0f89;
+	color: #bd0f49;
 	transition: all 0.5s ease;
 }
 footer a.li:hover {
